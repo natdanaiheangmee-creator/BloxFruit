@@ -37,7 +37,7 @@ Tabs.MainTab:Button({
 
         local longText = ""
         for i = 1, 20 do 
-            longText = longText .. "Fuck..."
+            longText = longText .. "ไอเหี้ยสมาร์ท"
         end
 
         local textLabel = Instance.new("TextLabel")
