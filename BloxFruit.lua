@@ -1,3 +1,5 @@
+
+
 local Window = WindUI:CreateWindow({
     Title = "KAITUN",
     Icon = "",
@@ -35,7 +37,7 @@ Tabs.MainTab:Button({
 
         local longText = ""
         for i = 1, 20 do 
-            longText = longText .. "ไอเหี้ยสมาร์ท"
+            longText = longText .. "ไอเหี้ยสมาร์ทไอเด็กขี้แอ็ค"
         end
 
         local textLabel = Instance.new("TextLabel")
@@ -81,3 +83,4 @@ Tabs.MainTab:Button({
         end)
     end
 })
+
