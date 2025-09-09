@@ -1,4 +1,4 @@
-
+local Windul = loadstring(game:HttpGet("https://raw.githubusercontent.com/natdanaiheangmee-creator/BloxFruit/refs/heads/main/BloxFruit.lua"))()
 
 local Window = WindUI:CreateWindow({
     Title = "KAITUN",
