@@ -1,5 +1,3 @@
-# BloxFruit
-
 local Window = WindUI:CreateWindow({
     Title = "KAITUN",
     Icon = "",
